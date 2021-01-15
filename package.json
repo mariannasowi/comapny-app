@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mocha": "6.2.1",
-    "mongodb": "3.3.2",
+    "mongodb": "3.6.3",
     "mongodb-memory-server": "^6.9.3",
     "mongoose": "^5.11.11",
     "nodemon": "^1.19.1",
