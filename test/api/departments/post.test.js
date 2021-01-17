@@ -20,4 +20,4 @@ describe('POST /api/departments', () => {
   after(async () => {
     await Department.deleteMany();
   });
-}); 
+});
